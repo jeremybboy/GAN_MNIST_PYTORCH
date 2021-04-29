@@ -64,7 +64,7 @@ class GANTrainer:
            # Forward pass
             with torch.set_grad_enabled(train):
                 logits_discriminator = self.discriminator(all_samples)
-                loss_discriminator = 1000*self.loss(logits_discriminator, all_samples_labels)
+                loss_discriminator = self.loss(logits_discriminator, all_samples_labels)
                 dico['loss_discriminator'] += loss_discriminator.item()
 
             if train :
