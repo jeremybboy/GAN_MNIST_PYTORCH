@@ -1,8 +1,8 @@
 import torch.nn as nn
 
-class Discriminator(nn.Module):
+class LinearDiscriminator(nn.Module):
     def __init__(self):
-        super(Discriminator, self).__init__()
+        super(LinearDiscriminator, self).__init__()
 
         self.linear=nn.Linear(784,1024)
         self.relu=nn.ReLU()

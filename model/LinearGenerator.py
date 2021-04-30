@@ -2,9 +2,9 @@ import torch.nn as nn
 
 
 
-class Generator(nn.Module):
+class LinearGenerator(nn.Module):
     def __init__(self, z_dim):
-        super(Generator, self).__init__()
+        super(LinearGenerator, self).__init__()
         self.z_dim= z_dim
 
         self.linear=nn.Linear(z_dim,256)
