@@ -2,9 +2,9 @@
 
 
 ### Command to execute the program: 
-## Convolutional GAN
+#### Convolutional GAN
 python main.py -c 
-## Linear GAN 
+#### Linear GAN 
 python main.py -l
 
 ## Pytorch Implementation of GAN 
