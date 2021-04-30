@@ -3,7 +3,7 @@
 ## Pytorch Implementation of GAN 
 
 
-![image](https://puu.sh/ydG0E/e0f32b0d92.png)
+![image](https://miro.medium.com/max/352/1*vXZ0EMRu_w37UIbuLgdpWw.png)
 
 
  
