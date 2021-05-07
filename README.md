@@ -13,7 +13,7 @@ python main.py -l
 ![ggg ](assets/gif_gan_mnist_50_iterations.gif)
 
 
-#### Mode Collapse
+#### Mode Collapse, the model fails to generate various images
  ![ggg ](assets/mode_collapse.png)
  
 #### Pockemon Generation ? 
