@@ -1,9 +1,16 @@
 # GAN_MNIST_PYTORCH
 
+
+### Command to execute the program: 
+#### Convolutional GAN
+python main.py -c 
+#### Linear GAN 
+python main.py -l
+
 ## Pytorch Implementation of GAN 
 
 
-![image](https://puu.sh/ydG0E/e0f32b0d92.png)
+![image](https://miro.medium.com/max/352/1*vXZ0EMRu_w37UIbuLgdpWw.png)
 
 
  
