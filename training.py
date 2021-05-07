@@ -27,7 +27,7 @@ class GANTrainer:
         # Optimizer
         self.generator = generator
         self.z_dim = self.generator.z_dim
-        self.discriminator= discriminator
+        self.discriminator = discriminator
         self.train_loader = train_loader
         self.test_loader = test_loader
         #choose if you want a CNN or Linear Architecture
