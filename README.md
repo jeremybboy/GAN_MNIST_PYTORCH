@@ -9,14 +9,14 @@ python main.py -l
 
 ## Pytorch Implementation of GAN 
 
-50 Iterations
+#### 50 Iterations
 ![ggg ](assets/gif_gan_mnist_50_iterations.gif)
 
 
-Mode Collapse
+#### Mode Collapse
  ![ggg ](assets/mode_collapse.png)
  
-Pockemon Generation ? 
+#### Pockemon Generation ? 
 ![ggg ](assets/1st_gen_mnist_to_pokemon.png)
 
  
