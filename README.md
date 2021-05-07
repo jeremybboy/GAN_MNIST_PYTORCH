@@ -10,7 +10,11 @@ python main.py -l
 ## Pytorch Implementation of GAN 
 
 
-![ggg ](assets/gif_gan_mnist_50_iterations.gif")
+![ggg ](assets/gif_gan_mnist_50_iterations.gif)
+
+![](name-of-giphy.gif)
+
+
 
 ![image](https://miro.medium.com/max/352/1*vXZ0EMRu_w37UIbuLgdpWw.png)
 
