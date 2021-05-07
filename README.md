@@ -9,11 +9,20 @@ python main.py -l
 
 ## Pytorch Implementation of GAN 
 
+#### Loss of the discriminator on 50 epochs (on Test Dataset)
 
-![ggg ](assets/gif_gan_mnist_50 iterations.gif")
+#### Loss of the generator on 50 epochs (on Test Dataset)
 
-![image](https://miro.medium.com/max/352/1*vXZ0EMRu_w37UIbuLgdpWw.png)
 
+#### 50 Iterations
+![ggg ](assets/gif_gan_mnist_50_iterations.gif)
+
+
+#### Mode Collapse, the model fails to generate various images
+ ![ggg ](assets/mode_collapse.png)
+ 
+#### Pockemon Generation ? 
+![ggg ](assets/1st_gen_mnist_to_pokemon.png)
 
  
  Display on tensorboard__   
