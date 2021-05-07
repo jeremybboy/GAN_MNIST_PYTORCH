@@ -10,9 +10,10 @@ python main.py -l
 ## Pytorch Implementation of GAN 
 
 #### Loss of the discriminator on 50 epochs (on Test Dataset)
+![ggg ](assets/loss_discriminator.png)
 
 #### Loss of the generator on 50 epochs (on Test Dataset)
-
+![ggg ](assets/loss_generator_test.png)
 
 #### 50 Iterations
 ![ggg ](assets/gif_gan_mnist_50_iterations.gif)
